@@ -20,12 +20,12 @@ Everything is inside the kera_first_network.ipynb. You'll see how I load the dat
 ## RESULTS
 I trained the model on 300 epochs and obtained an accuracy of 0.76 on the test set.
 <p float="left">
-    <img src="Images/resultat_1.png" width="425"/> 
+    <img src="Images/resultat_1.PNG" width="425"/> 
 </p>
 
 As we can see on the next image, the deep learning model does not predict the right output for some inputs.
 <p float="left">
-    <img src="Images/resultat_2.png" width="425"/> 
+    <img src="Images/resultat_2.PNG" width="425"/> 
 </p>
 
 ## IMPROVEMENT IDEAS
