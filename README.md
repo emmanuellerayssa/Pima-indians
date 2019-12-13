@@ -12,7 +12,8 @@ Here's a picture of some pima people.
 Source: https://www.britannica.com/topic/Pima-people 
 
 ## THE DATASET
-You can find the data set at the following adress https://www.kaggle.com/uciml/pima-indians-diabetes-database. All the explanations you need are there too so don't worry :). We split the data set in 2 sets : a training set (90%) and a test set(10%).
+The pima_indians_diabetes.csv file above contains the pima indians data set and the pima_indians_diabetes_infos.txt file contains details about that data set.
+For more information, you can check the following adress https://www.kaggle.com/uciml/pima-indians-diabetes-database. All the explanations you need about the data set are there so don't worry :). We split the data set in 2 sets : a training set (90%) and a test set(10%).
 
 ## THE PROJECT
 Everything is inside the kera_first_network.ipynb. You'll see how I load the data, how I build, train and test the deep learning model.
