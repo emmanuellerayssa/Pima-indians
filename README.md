@@ -7,5 +7,5 @@ The Pima indians are a group of Native Americans well known for the high rate of
 Here's a picture of some pima people.
 
 <p float="left">
-    <img src="Images/women-Pima" width="425"/> 
+    <img src="Images/women-Pima.png" width="425"/> 
 </p>
